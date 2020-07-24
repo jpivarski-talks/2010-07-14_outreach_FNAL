@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1180"
+   height="745.71429"
+   id="svg8598"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="timeline1.svg">
+  <defs
+     id="defs8600">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9718">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop9720" />
+      <stop
+         style="stop-color:#ffffa5;stop-opacity:1"
+         offset="1"
+         id="stop9722" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path6048"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective8606" />
+    <inkscape:perspective
+       id="perspective8736"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8758"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9678"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9718"
+       id="linearGradient9724"
+       x1="91.428574"
+       y1="363.55725"
+       x2="1180"
+       y2="363.55725"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective9746"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="711.75494"
+     inkscape:cy="300.67675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1434"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata8603">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.845187,-309.63075)">
+    <rect
+       style="color:#000000;fill:url(#linearGradient9724);fill-opacity:1;stroke:none;stroke-width:1.00000083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9716"
+       width="1088.5714"
+       height="745.71429"
+       x="91.428574"
+       y="-9.2998829"
+       transform="translate(31.845187,318.93063)" />
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/maxwell.jpg"
+       width="193.36008"
+       height="240.38065"
+       id="image8675"
+       x="228.82498"
+       y="797.82153" />
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/faraday.jpg"
+       width="194.86896"
+       height="236.49731"
+       id="image8726"
+       x="36.614311"
+       y="318.93063" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 34.345187,684.72757 1133.153313,0"
+       id="path8772"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="133.34567"
+       y="609.91534"
+       id="text9652"><tspan
+         sodipodi:role="line"
+         id="tspan9654"
+         x="133.34567"
+         y="609.91534">1830: Faraday's Law</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="324.92053"
+       y="775.58032"
+       id="text9656"><tspan
+         sodipodi:role="line"
+         id="tspan9658"
+         x="324.92053"
+         y="775.58032">1860: Maxwell's Equations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6594944px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       x="284.10632"
+       y="670.80096"
+       id="text9660"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan9662"
+         x="284.10632"
+         y="670.80096">Unification of</tspan><tspan
+         sodipodi:role="line"
+         x="284.10632"
+         y="718.29022"
+         id="tspan9664">electricity and magnetism</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6594944px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       x="1117.3375"
+       y="648.30115"
+       id="text9666"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan9668"
+         x="1117.3375"
+         y="648.30115">1900</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6594944px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       x="886.13086"
+       y="803.9165"
+       id="text9726"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9728"
+         x="886.13086"
+         y="803.9165">Basic rules of the universe</tspan><tspan
+         sodipodi:role="line"
+         x="886.13086"
+         y="843.49084"
+         id="tspan9730">seemed to be understood:</tspan><tspan
+         sodipodi:role="line"
+         x="886.13086"
+         y="883.06525"
+         id="tspan9732">any new phenomena were</tspan><tspan
+         sodipodi:role="line"
+         x="886.13086"
+         y="922.63959"
+         id="tspan9734">explained in terms</tspan><tspan
+         sodipodi:role="line"
+         x="886.13086"
+         y="962.21399"
+         id="tspan9736">of electromagnetism</tspan></text>
+  </g>
+</svg>

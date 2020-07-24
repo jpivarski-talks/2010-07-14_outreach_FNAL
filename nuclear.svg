@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="924.11163"
+   height="723.58014"
+   id="svg7159"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="nuclear.svg">
+  <defs
+     id="defs7161">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7167" />
+    <inkscape:perspective
+       id="perspective7147"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7217"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7422"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7444"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7488"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7513"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7535"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8121"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8203"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8275"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8317"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8399"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8459"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="421.40951"
+     inkscape:cy="334.57332"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1434"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.071428,-333.7508)">
+    <g
+       id="g7572"
+       transform="translate(92.857142,-71.428572)">
+      <path
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 619.4376,549.3265 c 4.90772,-2.15398 14.08427,-0.0101 15.75773,5.3736 -3.3558,5.77213 -10.06929,-4.14066 -4.69456,-6.67453 3.07829,-3.67707 9.0515,-5.17654 12.85654,-1.67804 3.45619,3.67576 8.64182,7.94972 7.35181,13.59663 -1.38032,4.005 -7.10746,2.75648 -9.11394,-0.046 -5.06436,-6.78727 0.62993,-17.5443 8.87459,-17.99276 7.70117,-0.2253 13.65774,6.44601 16.10997,13.19491 2.54215,4.22715 2.36923,11.66035 -3.73272,12.36747 -4.59965,-0.22528 -7.03188,-5.26716 -7.60217,-9.3015 -0.85803,-5.09811 -0.0136,-11.07278 4.54462,-14.23336 5.04454,-4.09886 13.21281,-4.04561 17.55752,1.06381 6.59055,6.4518 9.83198,16.12984 8.48013,25.25058 -2.77799,4.88763 -10.58782,3.00048 -12.48778,-1.72192 -4.35625,-8.46097 -1.1249,-18.84229 4.53883,-25.84561 3.96339,-4.44895 10.37194,-3.04604 14.67204,0.0259 6.32416,3.8544 11.39994,10.33192 12.57228,17.73458 -0.0366,6.09561 -8.95075,9.81337 -12.94666,4.89734 -4.29883,-5.09392 -1.31058,-12.90302 3.46874,-16.56211 5.91978,-4.34781 14.54043,-1.37704 18.57654,4.17932 2.92234,2.38088 6.43693,9.72643 0.47869,10.42953 -5.9378,-1.83593 -0.3768,-7.88102 3.14869,-9.0404 5.64503,-2.70718 12.10571,-2.16828 18.17116,-1.89742"
+         id="path7245-6"
+         sodipodi:nodetypes="ccccccccccccccccccccccc"
+         inkscape:transform-center-x="-86.77497"
+         inkscape:transform-center-y="8.8866356" />
+      <g
+         id="g7560">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_red.png"
+           width="53"
+           height="108"
+           id="image7412"
+           x="579.92859"
+           y="478.36215" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="605.60846"
+           y="566.42938"
+           id="text3145-6-4-6"><tspan
+             style="stroke-width:1"
+             sodipodi:role="line"
+             id="tspan3147-9-5-4"
+             x="605.60846"
+             y="566.42938">u</tspan></text>
+      </g>
+      <g
+         id="g7565">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_antired.png"
+           width="53"
+           height="108"
+           id="image7343"
+           x="719.92859"
+           y="485.505" />
+        <text
+           id="text7552"
+           y="581.42938"
+           x="746.32275"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="581.42938"
+             x="746.32275"
+             id="tspan7554"
+             sodipodi:role="line"
+             style="stroke-width:1">u</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="746.32275"
+           y="565.71509"
+           id="text7556"><tspan
+             style="stroke-width:1"
+             sodipodi:role="line"
+             id="tspan7558"
+             x="746.32275"
+             y="565.71509">−</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.4962101px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="254.34554"
+       y="360.87418"
+       id="text4189"><tspan
+         sodipodi:role="line"
+         x="254.34554"
+         y="360.87418"
+         id="tspan4283">different &quot;colors&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="254.34554"
+         y="391.49445"
+         id="tspan8222">of quarks attract;</tspan><tspan
+         sodipodi:role="line"
+         x="254.34554"
+         y="422.11472"
+         id="tspan8228">bound quarks form</tspan><tspan
+         sodipodi:role="line"
+         x="254.34552"
+         y="452.73495"
+         id="tspan8230">composite particles</tspan></text>
+    <g
+       id="g8172">
+      <path
+         transform="translate(-1.4285715,313.98199)"
+         d="m 428.57144,364.09448 c 0,96.25535 -78.03037,174.28572 -174.28572,174.28572 C 158.03038,538.3802 80,460.34983 80,364.09448 c 0,-96.25534 78.03038,-174.28572 174.28572,-174.28572 96.25535,0 174.28572,78.03038 174.28572,174.28572 z"
+         sodipodi:ry="174.28572"
+         sodipodi:rx="174.28572"
+         sodipodi:cy="364.09448"
+         sodipodi:cx="254.28572"
+         id="path8151"
+         style="color:#000000;fill:#f4f4f4;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9, 9;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+         sodipodi:type="arc" />
+      <g
+         transform="matrix(0.6919527,0,0,0.6919527,-177.624,156.9451)"
+         id="g7247">
+        <path
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 623.21429,745.93361 c -7.37502,-2.36723 -15.25607,-13.47419 -11.91296,-20.90438 9.15928,-3.03535 6.93562,14.12326 -1.30866,11.72012 -6.85293,1.03316 -14.75469,-3.06275 -15.52401,-10.4931 -0.222,-7.28822 -1.74337,-16.87987 5.05976,-21.75757 5.32889,-3.0138 10.33313,3.82117 9.82198,8.77595 -1.0163,12.19621 -17.47986,18.38881 -26.83419,10.98035 -8.55233,-7.12966 -8.61289,-20.05461 -4.80568,-29.70829 1.29541,-7.00995 8.59944,-14.89102 15.88206,-9.81402 4.76349,4.64784 2.56903,12.4345 -0.67634,17.34776 -3.95241,6.3403 -10.58707,11.9994 -18.54747,11.0565 -9.38526,-0.39286 -18.17654,-8.27129 -17.98769,-17.96219 -0.95703,-13.29434 4.80041,-26.87446 14.99654,-35.45344 7.68692,-2.63111 14.33429,6.88933 11.8695,13.82052 -3.38532,13.33004 -16.82297,21.47407 -29.65943,23.63246 -8.55011,1.02128 -14.14421,-6.63332 -15.85791,-14.07585 -3.15556,-10.22755 -2.4482,-22.09941 3.37046,-31.23535 5.87595,-6.5635 19.0852,-2.05313 18.70393,7.09446 -0.22366,9.63018 -10.9354,15.22251 -19.61248,14.60752 -10.5711,-0.96137 -17.05867,-12.43119 -16.10783,-22.31043 -0.88387,-5.37535 2.34461,-16.69208 9.46766,-11.74844 4.66991,7.67263 -7.13786,8.89209 -12.0643,6.77161 C 512.78439,643.80348 506.3066,637.03429 500,630.93366"
+           id="path7202"
+           sodipodi:nodetypes="ccccccccccccccccccccccc"
+           inkscape:transform-center-x="63.607145"
+           inkscape:transform-center-y="-59.499975" />
+        <path
+           inkscape:transform-center-y="84.83539"
+           inkscape:transform-center-x="25.543721"
+           sodipodi:nodetypes="ccccccccccccccccccccccc"
+           id="path7243"
+           d="m 623.21955,745.61489 c 1.63743,7.57057 -4.04096,19.94924 -12.14724,20.76912 -7.20834,-6.4145 8.76329,-13.06806 10.80425,-4.72673 4.3212,5.41823 4.72492,14.30931 -1.32529,18.69074 -6.20078,3.83636 -13.74671,9.94973 -21.37249,6.4969 -5.27447,-3.10805 -1.85733,-10.85934 2.68921,-12.89406 11.07038,-5.21796 24.6651,5.9436 22.92635,17.74892 -1.8983,10.97136 -13.06135,17.48628 -23.32529,19.01598 -6.7185,2.38312 -17.19572,-0.002 -16.44022,-8.84725 1.6434,-6.44923 9.48408,-8.4421 15.36177,-8.08816 7.46707,0.25274 15.68532,3.16897 18.84895,10.53433 4.3524,8.32431 1.92512,19.87699 -6.56187,24.55889 -11.03472,7.47599 -25.67417,9.27996 -38.20185,4.73934 -6.12207,-5.34151 -1.20081,-15.85852 6.03417,-17.18955 13.23681,-3.73325 27.00858,3.83209 35.29603,13.86959 5.15951,6.89397 1.32748,15.56591 -4.26109,20.77128 -7.27954,7.84657 -17.91455,13.16991 -28.73584,12.69877 -8.62213,-1.80697 -11.32066,-15.5017 -3.20798,-19.74531 8.45181,-4.62139 18.65078,1.85908 22.45672,9.68115 4.45298,9.63552 -2.23639,20.98883 -11.26748,25.105 -4.21326,3.45313 -15.62807,6.31555 -14.90828,-2.32501 4.30974,-7.88058 11.26971,1.73552 11.89654,7.06218 2.20859,8.77404 -0.4148,17.76857 -2.5448,26.28056"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 623.14812,746.31768 c 5.73759,-5.20334 19.29703,-6.47505 24.0602,0.13526 -1.95095,9.44985 -15.69891,-1.0552 -9.49559,-6.99339 2.53173,-6.45139 10.02977,-11.24656 16.8493,-8.19764 6.42278,3.45185 15.49008,6.93014 16.31273,15.26067 -0.0544,6.12185 -8.4758,7.03817 -12.51119,4.11811 -10.05408,-6.97825 -7.18524,-24.33241 3.90784,-28.72926 10.45063,-3.84171 21.67424,2.56832 28.13097,10.6923 5.42309,4.62683 8.59612,14.89293 0.55816,18.66127 -6.40689,1.80139 -12.05311,-3.9924 -14.68543,-9.2596 -3.51466,-6.59304 -5.09826,-15.16837 -0.30148,-21.59084 5.03286,-7.93144 16.25142,-11.60569 24.54956,-6.59669 11.99175,5.81835 20.87376,17.5945 23.20531,30.7141 -1.56485,7.97262 -13.13348,8.96919 -17.90367,3.36903 -9.8515,-9.59679 -10.1856,-25.30616 -5.6366,-37.50205 3.3906,-7.91526 12.81673,-8.93259 20.119,-6.69543 10.4351,2.38098 20.36275,8.9295 25.36538,18.53658 2.74618,8.37047 -7.76454,17.55483 -15.49595,12.65085 -8.22815,-5.00879 -7.71538,-17.08159 -2.84424,-24.28867 6.11812,-8.67415 19.29506,-8.55764 27.37531,-2.79457 5.09713,1.92222 13.28346,10.37653 5.44062,14.07345 -8.97965,0.20795 -4.13185,-10.62761 0.16776,-13.8338 6.49424,-6.29971 15.59543,-8.52505 24.03203,-10.93641"
+           id="path7245"
+           sodipodi:nodetypes="ccccccccccccccccccccccc"
+           inkscape:transform-center-x="-83.33206"
+           inkscape:transform-center-y="-22.374776" />
+      </g>
+      <g
+         id="g4720"
+         transform="matrix(0.88469607,0.46616827,-0.46616827,0.88469607,-142.36729,-146.13865)">
+        <image
+           y="439.93433"
+           x="593.46619"
+           id="image4342"
+           height="108"
+           width="53"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_red.png" />
+        <text
+           id="text3145-6-4"
+           y="526.09857"
+           x="620.08453"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="526.09857"
+             x="620.08453"
+             id="tspan3147-9-5"
+             sodipodi:role="line">u</tspan></text>
+      </g>
+      <g
+         id="g4725"
+         transform="matrix(0.79018273,-0.61287131,0.61287131,0.79018273,-652.09466,669.96347)">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_blue.png"
+           width="53"
+           height="108"
+           id="image4630"
+           x="592.89136"
+           y="579.93433" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="620.08453"
+           y="666.09857"
+           id="text4632"><tspan
+             sodipodi:role="line"
+             id="tspan4634"
+             x="620.08453"
+             y="666.09857">d</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.97263258,-0.23234857,0.23234857,0.97263258,-350.47782,296.34045)"
+         id="g7192">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_green.png"
+           width="53"
+           height="108"
+           id="image7194"
+           x="593.46619"
+           y="439.93433" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="620.08453"
+           y="526.09857"
+           id="text7196"><tspan
+             sodipodi:role="line"
+             id="tspan7198"
+             x="620.08453"
+             y="526.09857">u</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+         x="644.21436"
+         y="503.04523"
+         id="text8548"><tspan
+           sodipodi:role="line"
+           id="tspan8550"
+           x="644.21436"
+           y="503.04523">red</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+         x="915.64282"
+         y="511.61664"
+         id="text8552"><tspan
+           sodipodi:role="line"
+           id="tspan8554"
+           x="915.64282"
+           y="511.61664">antired</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:39.58872223px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="258.57153"
+       y="903.17932"
+       id="text8191"><tspan
+         sodipodi:role="line"
+         id="tspan8193"
+         x="258.57153"
+         y="903.17932">proton</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 641.52268,695.32315 c 11.10681,-2.06896 31.87454,-0.01 35.6618,5.16151 -7.59461,5.54431 -22.78812,-3.97723 -10.6244,-6.4111 6.96657,-3.53194 20.48473,-4.97222 29.09603,-1.6118 7.82182,3.53068 19.55758,7.63595 16.63811,13.05999 -3.12384,3.84692 -16.08511,2.64767 -20.62604,-0.0442 -11.46131,-6.51939 1.42561,-16.85185 20.08436,-17.28261 17.42877,-0.2164 30.90926,6.19159 36.45898,12.67413 5.75322,4.06031 5.36188,11.20012 -8.44764,11.87933 -10.40961,-0.21638 -15.91406,-5.05926 -17.2047,-8.93438 -1.94184,-4.89689 -0.0308,-10.63575 10.28507,-13.67158 11.41646,-3.93708 29.90232,-3.88593 39.73497,1.02183 14.91528,6.19715 22.25107,15.49321 19.19165,24.25395 -6.28696,4.69472 -23.96163,2.88206 -28.26149,-1.65395 -9.85876,-8.12703 -2.5458,-18.09861 10.27198,-24.82551 8.96966,-4.27335 23.47305,-2.92582 33.20474,0.0249 14.3124,3.70227 25.79956,9.92413 28.45272,17.03461 -0.0828,5.85502 -20.25672,9.42604 -29.3,4.70405 -9.72881,-4.89287 -2.96601,-12.39375 7.85023,-15.90842 13.39723,-4.1762 32.90689,-1.32269 42.04114,4.01437 6.61364,2.2869 14.56762,9.34253 1.08334,10.01788 -13.43802,-1.76347 -0.85275,-7.56996 7.1259,-8.68358 12.77545,-2.60034 27.39681,-2.0827 41.12372,-1.82254"
+       id="path8234"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:transform-center-x="-196.38315"
+       inkscape:transform-center-y="8.5358774" />
+    <g
+       id="g8236"
+       transform="translate(29.999999,145.71428)">
+      <image
+         xlink:href="file:///home/pivarski/work/talks/latest/white_knight_red.png"
+         width="53"
+         height="108"
+         id="image8238"
+         x="579.92859"
+         y="478.36215" />
+      <text
+         xml:space="preserve"
+         style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+         x="605.60846"
+         y="566.42938"
+         id="text8240"><tspan
+           style="stroke-width:1"
+           sodipodi:role="line"
+           id="tspan8242"
+           x="605.60846"
+           y="566.42938">u</tspan></text>
+    </g>
+    <g
+       id="g8244"
+       transform="translate(162.85714,145.71428)">
+      <image
+         xlink:href="file:///home/pivarski/work/talks/latest/white_knight_antired.png"
+         width="53"
+         height="108"
+         id="image8246"
+         x="719.92859"
+         y="485.505" />
+      <text
+         id="text8248"
+         y="581.42938"
+         x="746.32275"
+         style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+         xml:space="preserve"><tspan
+           y="581.42938"
+           x="746.32275"
+           id="tspan8250"
+           sodipodi:role="line"
+           style="stroke-width:1">u</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+         x="746.32275"
+         y="565.71509"
+         id="text8252"><tspan
+           style="stroke-width:1"
+           sodipodi:role="line"
+           id="tspan8254"
+           x="746.32275"
+           y="565.71509">−</tspan></text>
+    </g>
+    <path
+       style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 805.87476,946.16202 -26.44145,-13.56943 -3.67399,38.89192 -16.23268,-39.4975 -29.25475,26.19869 17.64417,-39.68436 -29.72375,-11.82347 31.34801,-6.04583 -18.04921,-44.53502 34.59093,38.01786 5.71137,-37.87323 7.06452,36.44144 29.25474,-20.08657 -13.56943,26.44144 35.83587,15.89822 -42.55355,2.98979 18.0492,28.23605 z"
+       id="path4228"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <g
+       id="g8366"
+       transform="translate(0.24510407,81.428572)">
+      <path
+         inkscape:transform-center-y="-58.278621"
+         inkscape:transform-center-x="64.37653"
+         sodipodi:nodetypes="ccscccccccccccccccc"
+         id="path7245-6-4"
+         d="m 675.67127,895.87522 c 0.91634,-5.0384 14.44027,-10.22534 16.61718,-15.42589 6.28019,-2.26673 9.14211,8.50279 3.34926,8.13082 -4.67508,-0.30019 -8.24159,-10.52228 -8.90933,-15.64789 -0.28653,-5.0373 -1.5139,-11.64419 3.1029,-15.14231 3.63103,-2.18196 7.21728,2.4546 6.95408,5.89126 -0.48044,8.45481 -11.63293,-0.12918 -18.23862,-5.08266 -6.04585,-4.77561 -6.32358,-13.71485 -3.86623,-20.46189 0.76814,-4.8725 5.67672,-10.45714 10.80674,-7.07828 3.37976,3.12805 2.00391,8.55422 -0.1513,12.012 -10.32541,16.55158 -24.36672,2.41375 -27.12225,-11.68622 -0.90457,-9.17839 2.32504,-21.20238 9.22128,-27.32261 5.26912,-1.96023 10.04091,4.50389 8.46247,9.34325 -2.09844,9.28232 -10.73975,17.68622 -19.57949,19.41344 -16.30168,2.91549 -28.22588,-12.23859 -24.65267,-25.22689 3.94467,-4.64729 13.16399,-1.76842 13.06718,4.56603 -1.30784,13.73697 -33.95896,14.50214 -37.51151,8.40481 -1.21456,-9.76298 4.85273,-11.08381 7.34466,-4.25867 2.68088,6.65321 -10.97392,16.68541 -17.14504,18.94717"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         id="g8289"
+         transform="matrix(0.91459723,-0.40436605,0.40436605,0.91459723,-189.19279,579.25576)">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_red.png"
+           width="53"
+           height="108"
+           id="image8291"
+           x="579.92859"
+           y="478.36215" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="605.60846"
+           y="566.42938"
+           id="text8293"><tspan
+             style="stroke-width:1"
+             sodipodi:role="line"
+             id="tspan8295"
+             x="605.60846"
+             y="566.42938">u</tspan></text>
+      </g>
+      <g
+         id="g8297"
+         transform="matrix(0.89823551,-0.43951447,0.43951447,0.89823551,-241.16033,742.96861)">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_antired.png"
+           width="53"
+           height="108"
+           id="image8299"
+           x="719.92859"
+           y="485.505" />
+        <text
+           id="text8301"
+           y="581.42938"
+           x="746.32275"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="581.42938"
+             x="746.32275"
+             id="tspan8303"
+             sodipodi:role="line"
+             style="stroke-width:1">d</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="746.32275"
+           y="565.71509"
+           id="text8305"><tspan
+             style="stroke-width:1"
+             sodipodi:role="line"
+             id="tspan8307"
+             x="746.32275"
+             y="565.71509">−</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g8353"
+       transform="translate(-55.313286,85.469182)">
+      <path
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 914.48344,895.87522 c -0.91634,-5.0384 -14.44027,-10.22534 -16.61718,-15.42589 -6.28019,-2.26673 -9.14211,8.50279 -3.34926,8.13082 4.67508,-0.30019 8.24159,-10.52228 8.90933,-15.64789 0.28653,-5.0373 1.5139,-11.64419 -3.1029,-15.14231 -3.63103,-2.18196 -7.21728,2.4546 -6.95408,5.89126 0.48044,8.45481 11.63293,-0.12918 18.23862,-5.08266 6.04585,-4.77561 6.32358,-13.71485 3.86623,-20.46189 -0.76814,-4.8725 -5.67672,-10.45714 -10.80674,-7.07828 -3.37976,3.12805 -2.00391,8.55422 0.1513,12.012 10.32541,16.55158 24.36672,2.41375 27.12225,-11.68622 0.90457,-9.17839 -2.32504,-21.20238 -9.22128,-27.32261 -5.26912,-1.96023 -10.04091,4.50389 -8.46247,9.34325 2.09844,9.28232 10.73975,17.68622 19.57949,19.41344 16.30168,2.91549 28.22588,-12.23859 24.65267,-25.22689 -3.94467,-4.64729 -13.16399,-1.76842 -13.06718,4.56603 1.30784,13.73697 33.95896,14.50214 37.51151,8.40481 1.21456,-9.76298 -4.85273,-11.08381 -7.34466,-4.25867 -2.68088,6.65321 10.97392,16.68541 17.14504,18.94717"
+         id="path8331"
+         sodipodi:nodetypes="ccscccccccccccccccc"
+         inkscape:transform-center-x="-64.376528"
+         inkscape:transform-center-y="-58.278621" />
+      <g
+         transform="matrix(0.92544125,0.37889114,-0.37889114,0.92544125,562.63913,189.40699)"
+         id="g8333">
+        <image
+           y="478.36215"
+           x="579.92859"
+           id="image8335"
+           height="108"
+           width="53"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_red.png" />
+        <text
+           id="text8337"
+           y="566.42938"
+           x="605.60846"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="566.42938"
+             x="605.60846"
+             id="tspan8339"
+             sodipodi:role="line"
+             style="stroke-width:1">d</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.92906628,0.3699133,-0.3699133,0.92906628,517.9892,38.312569)"
+         id="g8341">
+        <image
+           y="485.505"
+           x="719.92859"
+           id="image8343"
+           height="108"
+           width="53"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight_antired.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="746.32275"
+           y="581.42938"
+           id="text8345"><tspan
+             style="stroke-width:1"
+             sodipodi:role="line"
+             id="tspan8347"
+             x="746.32275"
+             y="581.42938">u</tspan></text>
+        <text
+           id="text8349"
+           y="565.71509"
+           x="746.32275"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="565.71509"
+             x="746.32275"
+             id="tspan8351"
+             sodipodi:role="line"
+             style="stroke-width:1">−</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.4962101px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="768.57141"
+       y="352.36218"
+       id="text8379"><tspan
+         sodipodi:role="line"
+         id="tspan8381"
+         x="768.57141"
+         y="352.36218">bound quarks can</tspan><tspan
+         sodipodi:role="line"
+         x="768.57141"
+         y="382.98245"
+         id="tspan8383">never be truly separated</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.4962101px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="772.85712"
+       y="576.64789"
+       id="text8385"><tspan
+         sodipodi:role="line"
+         id="tspan8387"
+         x="772.85712"
+         y="576.64789">attempting to do so</tspan><tspan
+         sodipodi:role="line"
+         x="772.85712"
+         y="607.26813"
+         id="tspan8389">requires so much energy</tspan></text>
+    <text
+       id="text8420"
+       y="792.36218"
+       x="767.14282"
+       style="font-size:24.4962101px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       xml:space="preserve"><tspan
+         id="tspan8424"
+         y="792.36218"
+         x="767.14282"
+         sodipodi:role="line">that you just end up</tspan><tspan
+         y="822.98242"
+         x="767.14282"
+         sodipodi:role="line"
+         id="tspan8428">making more quarks</tspan></text>
+    <g
+       transform="matrix(0.8156682,0,0,0.8156682,-159.6667,563.23609)"
+       id="g7077">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.67297316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7079"
+         sodipodi:cx="660"
+         sodipodi:cy="143.48808"
+         sodipodi:rx="32.476871"
+         sodipodi:ry="32.476871"
+         d="m 692.47687,143.48808 c 0,17.93648 -14.54039,32.47687 -32.47687,32.47687 -17.93648,0 -32.47687,-14.54039 -32.47687,-32.47687 0,-17.93648 14.54039,-32.47687 32.47687,-32.47687 17.93648,0 32.47687,14.54039 32.47687,32.47687 z"
+         transform="matrix(0.91732215,0,0,0.91732215,-88.386441,62.547978)" />
+      <text
+         xml:space="preserve"
+         style="font-size:42.90803909px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+         x="517.83838"
+         y="203.43158"
+         id="text7081"><tspan
+           sodipodi:role="line"
+           id="tspan7083"
+           x="517.83838"
+           y="203.43158">g</tspan></text>
+    </g>
+    <text
+       id="text8498"
+       y="730.93359"
+       x="340.71429"
+       style="font-size:24.4962101px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       xml:space="preserve"><tspan
+         y="730.93359"
+         x="340.71429"
+         id="tspan8500"
+         sodipodi:role="line">gluons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.4962101px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="424.28571"
+       y="581.64789"
+       id="text8502"><tspan
+         sodipodi:role="line"
+         id="tspan8504"
+         x="424.28571"
+         y="581.64789">quarks</tspan></text>
+  </g>
+</svg>

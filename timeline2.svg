@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1180"
+   height="745.71429"
+   id="svg8598"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="timeline2.svg">
+  <defs
+     id="defs8600">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9718">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop9720" />
+      <stop
+         style="stop-color:#ffffa5;stop-opacity:1"
+         offset="1"
+         id="stop9722" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path6048"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective8606" />
+    <inkscape:perspective
+       id="perspective8736"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8758"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9678"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9718"
+       id="linearGradient9724"
+       x1="91.428574"
+       y1="363.55725"
+       x2="1180"
+       y2="363.55725"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1211.2737,318.93063)" />
+    <inkscape:perspective
+       id="perspective9746"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9892"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10139"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10165"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10193"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10270"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10446"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="711.75494"
+     inkscape:cy="300.67675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="714"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata8603">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.845187,-309.63075)">
+    <rect
+       style="color:#000000;fill:url(#linearGradient9724);fill-opacity:1;stroke:none;stroke-width:1.00000083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9716"
+       width="1088.5714"
+       height="745.71429"
+       x="-1119.8452"
+       y="309.63074"
+       transform="scale(-1,1)" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 34.345187,684.72757 1133.153313,0"
+       id="path8772"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="223.90526"
+       y="579.38733"
+       id="text9656"><tspan
+         sodipodi:role="line"
+         id="tspan9658"
+         x="223.90526"
+         y="579.38733">1902: Discovery of Radium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6594944px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       x="97.337517"
+       y="648.30115"
+       id="text9666"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan9668"
+         x="97.337517"
+         y="648.30115">1900</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6594944px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       x="637.63336"
+       y="741.38855"
+       id="text9726"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="741.38855"
+         id="tspan9736">Discovery of radiation,</tspan><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="780.96289"
+         id="tspan9823">quantum effects,</tspan><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="820.53729"
+         id="tspan9827">nuclear force:</tspan><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="860.11163"
+         id="tspan9829">there were surprises</tspan><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="899.68604"
+         id="tspan9831">everywhere</tspan><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="939.26038"
+         id="tspan10288" /><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="978.83478"
+         id="tspan10290">Clearly, we had more to</tspan><tspan
+         sodipodi:role="line"
+         x="637.63336"
+         y="1018.4091"
+         id="tspan10292">learn about the basic rules!</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text9803"
+       y="648.30115"
+       x="1117.3375"
+       style="font-size:31.6594944px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       xml:space="preserve"><tspan
+         y="648.30115"
+         x="1117.3375"
+         id="tspan9805"
+         sodipodi:role="line">1940</tspan></text>
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/curie.jpg"
+       width="181.68556"
+       height="229.0818"
+       id="image9882"
+       x="133.3569"
+       y="316.22253" />
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/meitner.jpg"
+       width="189"
+       height="228"
+       id="image10078"
+       x="977.80231"
+       y="791.84247" />
+    <text
+       id="text10153"
+       y="773.33661"
+       x="1071.999"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       xml:space="preserve"><tspan
+         y="773.33661"
+         x="1071.999"
+         id="tspan10155"
+         sodipodi:role="line">1939: Nuclear Fission</tspan></text>
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/planck.jpg"
+       width="194.55328"
+       height="241.76706"
+       id="image10129"
+       x="48.139954"
+       y="783.60645" />
+    <text
+       id="text10179"
+       y="745.05231"
+       x="145.11337"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       xml:space="preserve"><tspan
+         y="745.05231"
+         x="145.11337"
+         id="tspan10181"
+         sodipodi:role="line">1900: Quantization</tspan><tspan
+         y="767.55231"
+         x="145.11337"
+         sodipodi:role="line"
+         id="tspan10183">of Energy</tspan></text>
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/fermi.jpg"
+       width="230.29437"
+       height="234.32452"
+       id="image10009"
+       x="789.90411"
+       y="371.01242" />
+    <text
+       id="text10207"
+       y="637.9762"
+       x="904.74811"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       xml:space="preserve"><tspan
+         y="637.9762"
+         x="904.74811"
+         id="tspan10209"
+         sodipodi:role="line">1934: Weak Interaction</tspan><tspan
+         y="660.4762"
+         x="904.74811"
+         sodipodi:role="line"
+         id="tspan10464">and the Neutrino</tspan></text>
+    <image
+       xlink:href="file:///home/pivarski/work/talks/latest/pauli.jpg"
+       width="164.6243"
+       height="240.57317"
+       id="image10436"
+       x="-651.99274"
+       y="342.12155"
+       transform="scale(-1,1)" />
+    <text
+       id="text10460"
+       y="619.79346"
+       x="569.37744"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       xml:space="preserve"><tspan
+         y="619.79346"
+         x="569.37744"
+         id="tspan10462"
+         sodipodi:role="line">1924: Intrinsic Spin</tspan></text>
+  </g>
+</svg>

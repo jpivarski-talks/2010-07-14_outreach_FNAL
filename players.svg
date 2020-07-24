@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="893.17285"
+   height="442.34579"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="players.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path4933"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4930"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2896"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3021"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3092"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3122"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3941"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3941-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4071"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4093"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4580"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4602"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4644"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4676"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4698"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4883"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4905"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="542.24235"
+     inkscape:cy="134.065"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4745"
+     showgrid="false"
+     inkscape:window-width="1434"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.287724,-342.9721)">
+    <g
+       id="g4225">
+      <g
+         transform="translate(-478.57143,-270)"
+         id="g4122">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_rook.png"
+           width="52"
+           height="96"
+           id="image4061"
+           x="560.39349"
+           y="712.42804" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="585.97296"
+           y="764.828"
+           id="text3145-6"><tspan
+             sodipodi:role="line"
+             id="tspan3147-9"
+             x="585.97296"
+             y="764.828">e</tspan></text>
+      </g>
+      <g
+         transform="matrix(1.1984228,0,0,1.1984228,-601.67166,-430.41057)"
+         id="g4127">
+        <image
+           y="712.42804"
+           x="620.39349"
+           id="image4110"
+           height="96"
+           width="52"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_rook.png" />
+        <text
+           id="text4112"
+           y="764.828"
+           x="645.97296"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="764.828"
+             x="645.97296"
+             id="tspan4114"
+             sodipodi:role="line">μ</tspan></text>
+      </g>
+      <g
+         transform="matrix(1.4614834,0,0,1.4614834,-780.65635,-643.0761)"
+         id="g4132">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_rook.png"
+           width="52"
+           height="96"
+           id="image4116"
+           x="680.39349"
+           y="712.42804" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="705.97296"
+           y="764.828"
+           id="text4118"><tspan
+             sodipodi:role="line"
+             id="tspan4120"
+             x="705.97296"
+             y="764.828">τ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4205">
+      <g
+         transform="translate(-476.55115,-175.71429)"
+         id="g4137">
+        <image
+           y="891.91724"
+           x="565.40875"
+           id="image3982"
+           height="69.114944"
+           width="37.928932"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_pawn.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="581.16101"
+           y="879.36975"
+           id="text3106"><tspan
+             sodipodi:role="line"
+             id="tspan3108"
+             x="581.16101"
+             y="879.36975">ν</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="594.63391"
+           y="888.46118"
+           id="text3110"><tspan
+             sodipodi:role="line"
+             id="tspan3112"
+             x="594.63391"
+             y="888.46118">e</tspan></text>
+      </g>
+      <g
+         transform="translate(-411.39218,-175.71429)"
+         id="g4144">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_pawn.png"
+           width="37.928932"
+           height="69.114944"
+           id="image4146"
+           x="565.40875"
+           y="891.91724" />
+        <text
+           id="text4148"
+           y="879.36975"
+           x="581.16101"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="879.36975"
+             x="581.16101"
+             id="tspan4150"
+             sodipodi:role="line">ν</tspan></text>
+        <text
+           id="text4152"
+           y="888.46118"
+           x="594.63391"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="888.46118"
+             x="594.63391"
+             id="tspan4154"
+             sodipodi:role="line">μ</tspan></text>
+      </g>
+      <g
+         id="g4156"
+         transform="translate(-332.6472,-175.71429)">
+        <image
+           y="891.91724"
+           x="565.40875"
+           id="image4158"
+           height="69.114944"
+           width="37.928932"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_pawn.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="581.16101"
+           y="879.36975"
+           id="text4160"><tspan
+             sodipodi:role="line"
+             id="tspan4162"
+             x="581.16101"
+             y="879.36975">ν</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="594.63391"
+           y="888.46118"
+           id="text4164"><tspan
+             sodipodi:role="line"
+             id="tspan4166"
+             x="594.63391"
+             y="888.46118">τ</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:28.81250572px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="179.84439"
+       y="364.86285"
+       id="text4189"><tspan
+         sodipodi:role="line"
+         id="tspan4191"
+         x="179.84439"
+         y="364.86285">charged leptons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.81250572px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="179.25351"
+       y="653.92548"
+       id="text4193"><tspan
+         sodipodi:role="line"
+         id="tspan4195"
+         x="179.25351"
+         y="653.92548">neutrinos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.81250572px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="501.8598"
+       y="414.58014"
+       id="text4197"><tspan
+         sodipodi:role="line"
+         id="tspan4199"
+         x="501.8598"
+         y="414.58014">quarks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.81250572px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+       x="835.32715"
+       y="514.98108"
+       id="text4201"><tspan
+         sodipodi:role="line"
+         id="tspan4203"
+         x="835.32715"
+         y="514.98108">antimatter</tspan></text>
+    <g
+       id="g4745"
+       transform="translate(-240,47.142857)">
+      <g
+         transform="translate(31.750052,0)"
+         id="g4720">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight.png"
+           width="53"
+           height="108"
+           id="image4342"
+           x="593.46619"
+           y="439.93433" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="620.08453"
+           y="526.09857"
+           id="text3145-6-4"><tspan
+             sodipodi:role="line"
+             id="tspan3147-9-5"
+             x="620.08453"
+             y="526.09857">u</tspan></text>
+      </g>
+      <g
+         transform="translate(32.324881,0)"
+         id="g4725">
+        <image
+           y="579.93433"
+           x="592.89136"
+           id="image4630"
+           height="108"
+           width="53"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_knight.png" />
+        <text
+           id="text4632"
+           y="666.09857"
+           x="620.08453"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="666.09857"
+             x="620.08453"
+             id="tspan4634"
+             sodipodi:role="line">d</tspan></text>
+      </g>
+      <g
+         transform="translate(0.49871826,0)"
+         id="g4730">
+        <image
+           y="426.58795"
+           x="713.15344"
+           id="image4658"
+           height="121"
+           width="53"
+           xlink:href="file:///home/pivarski/work/talks/latest/white_bishop.png" />
+        <text
+           id="text4660"
+           y="526.09857"
+           x="740.08453"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="526.09857"
+             x="740.08453"
+             id="tspan4662"
+             sodipodi:role="line">c</tspan></text>
+      </g>
+      <g
+         id="g4735">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_bishop.png"
+           width="53"
+           height="121"
+           id="image3011"
+           x="713.65216"
+           y="566.58795" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="740.08453"
+           y="666.09857"
+           id="text4664"><tspan
+             sodipodi:role="line"
+             id="tspan4666"
+             x="740.08453"
+             y="666.09857">s</tspan></text>
+      </g>
+      <g
+         transform="translate(-31.488043,0)"
+         id="g4740">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_king.png"
+           width="60"
+           height="157"
+           id="image4465"
+           x="829.90704"
+           y="391.00418" />
+        <text
+           xml:space="preserve"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           x="860.08453"
+           y="526.09857"
+           id="text4712"><tspan
+             sodipodi:role="line"
+             id="tspan4714"
+             x="860.08453"
+             y="526.09857">t</tspan></text>
+      </g>
+      <g
+         id="g5365">
+        <image
+           xlink:href="file:///home/pivarski/work/talks/latest/white_queen.png"
+           width="60"
+           height="140"
+           id="image4570"
+           x="798.41901"
+           y="550.01685" />
+        <text
+           id="text4716"
+           y="666.09857"
+           x="827.75964"
+           style="font-size:34.62422562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+           xml:space="preserve"><tspan
+             y="666.09857"
+             x="827.75964"
+             id="tspan4718"
+             sodipodi:role="line">b</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5557"
+       transform="translate(19.500814,-8.0812204)">
+      <image
+         y="564.23236"
+         x="709.81836"
+         id="image4342-2"
+         height="108"
+         width="53"
+         xlink:href="file:///home/pivarski/work/talks/latest/white_knight.png" />
+      <image
+         y="562.73236"
+         x="871.95978"
+         id="image4873"
+         height="111"
+         width="51"
+         xlink:href="file:///home/pivarski/work/talks/latest/black_knight.png" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4919"
+         d="m 775.72026,615.97628 83.33759,0"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
